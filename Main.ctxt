@@ -1,6 +1,0 @@
-#BlueJ class context
-comment0.target=Main
-comment0.text=\r\n\ Main\ Driver\ Class\ for\ abstract\ Employee\ and\ all\ related\ classes\r\n\ and\ interfaces.\ Assigns\ one\ Salesperson\ and\ one\ Executive\ to\ an\ Array\ and\ displays\r\n\ each\ element\ in\ the\ array.\r\n\ \r\n\r\n\ @author\ Kian\ R\ Frawley\ \r\n\ @version\ 11/8/21\r\n
-comment1.params=args
-comment1.target=void\ main(java.lang.String[])
-numComments=2
